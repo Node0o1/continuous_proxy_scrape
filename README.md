@@ -1,4 +1,4 @@
-# continuous_proxy_scrapre
+# continuous_proxy_scraprer
 ### *type: CLI application*
 
 ## Purpose
