@@ -41,7 +41,6 @@ def main():
     total_proxies:int = 0x00
     print('\nGathering proxies...')
     
-    
     while(True):
         try:
             new_proxies:int = get_https_proxies()
